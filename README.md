@@ -1,0 +1,2 @@
+# Practical_Project_Neural_Networks_for_Tabular_Data
+My practical project when I studied Artificial Intelligence
